@@ -8,5 +8,7 @@ namespace REALCUY
     public class Players
     {
         private string name;
+        private int aasdfghjk;
+        private int ertyu;
     }
 }
